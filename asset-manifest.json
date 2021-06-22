@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/my-cashbook/static/css/main.f3513306.chunk.css",
+    "main.js": "/my-cashbook/static/js/main.ef1586e8.chunk.js",
+    "main.js.map": "/my-cashbook/static/js/main.ef1586e8.chunk.js.map",
+    "runtime-main.js": "/my-cashbook/static/js/runtime-main.57addc58.js",
+    "runtime-main.js.map": "/my-cashbook/static/js/runtime-main.57addc58.js.map",
+    "static/js/2.03ce1d1f.chunk.js": "/my-cashbook/static/js/2.03ce1d1f.chunk.js",
+    "static/js/2.03ce1d1f.chunk.js.map": "/my-cashbook/static/js/2.03ce1d1f.chunk.js.map",
+    "static/js/3.4f4c6988.chunk.js": "/my-cashbook/static/js/3.4f4c6988.chunk.js",
+    "static/js/3.4f4c6988.chunk.js.map": "/my-cashbook/static/js/3.4f4c6988.chunk.js.map",
+    "index.html": "/my-cashbook/index.html",
+    "static/css/main.f3513306.chunk.css.map": "/my-cashbook/static/css/main.f3513306.chunk.css.map",
+    "static/js/2.03ce1d1f.chunk.js.LICENSE.txt": "/my-cashbook/static/js/2.03ce1d1f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.57addc58.js",
+    "static/js/2.03ce1d1f.chunk.js",
+    "static/css/main.f3513306.chunk.css",
+    "static/js/main.ef1586e8.chunk.js"
+  ]
+}
